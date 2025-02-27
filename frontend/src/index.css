@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body
+{
+  font-family: "Roboto", sans-serif;
+}
+input, textarea {
+  color: white !important;
+  background-color: #1E293B !important; /* Dark background */
+  opacity: 1 !important;
+}
+
+::placeholder {
+  color: rgba(255, 255, 255, 0.5); /* Light Gray Placeholder */
+}
