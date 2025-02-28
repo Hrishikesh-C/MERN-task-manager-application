@@ -198,4 +198,5 @@ Inside frontend folder:
 Inside backend folder:
 
 - `npm run dev`: Starts backend using nodemon.
+<<<<<<< HEAD
 - `npm start`: Starts backend without nodemon.
